@@ -13,3 +13,4 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoeo2255&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hye-0000&show_icons=true&locale=en&layout=compact" alt="hye-0000" />
