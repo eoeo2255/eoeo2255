@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=333399&height=200&section=header&text=Hi!%20I'm%20me%20YeRim&fontSize=90&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=9999FF&height=200&section=header&text=Hi!%20I'm%20me%20YeRim&fontSize=90&stroke=FFFFFF)
 
 
 ## ⛏ Skills
